@@ -1,0 +1,1914 @@
+[2022-09-22 03:06:24] Текст ошибки: Missing page | Файл: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Строка: 30
+=================
+[2022-09-22 03:06:24] Текст ошибки: Missing page | Файл: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Строка: 30
+=================
+[2022-09-22 03:08:01] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 30
+=================
+[2022-09-22 03:18:41] Error text: Missing app\controllers\MainController | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 40
+=================
+[2022-09-22 04:40:16] Error text: Undefined property: app\controllers\GroupController::$indexAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 35
+=================
+[2022-09-22 04:40:25] Error text: Undefined property: app\controllers\GroupController::$indexAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 35
+=================
+[2022-09-22 05:34:50] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/index.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 35
+=================
+[2022-09-22 05:36:26] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/index.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 35
+=================
+[2022-09-22 05:36:27] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/index.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 35
+=================
+[2022-09-22 05:38:40] Error text: Не найдено шаблон D:\OpenServer\domains\test-task/app/views/layouts/test-task.php | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 43
+=================
+[2022-09-22 12:03:47] Error text: Cannot instantiate abstract class wfm\Model | File: D:\OpenServer\domains\test-task\vendor\wfm\TSingleton.php | Line: 16
+=================
+[2022-09-22 12:09:30] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:09:38] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:10:53] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:10:54] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:10:56] Error text: Missing app\controllers\VsController | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 55
+=================
+[2022-09-22 12:10:56] Error text: Missing app\controllers\VsController | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 55
+=================
+[2022-09-22 12:11:05] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:11:15] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 12:13:49] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:14:36] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-22 12:16:23] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 7
+=================
+[2022-09-22 12:16:23] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 7
+=================
+[2022-09-22 12:20:43] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 12:21:01] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 12:22:17] Error text: Undefined variable $test | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 12:23:44] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:25:04] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:25:04] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:25:28] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:27:43] Error text: Undefined constant "app\controllers\Group" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:31:16] Error text: Non-static method app\models\Group::get_groups() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:31:47] Error text: Call to undefined method app\controllers\GroupController::get_groups() | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 12
+=================
+[2022-09-22 12:35:42] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:00:36] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:01:23] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:02:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:03:31] Error text: Object of class mysqli could not be converted to string | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 16
+=================
+[2022-09-22 18:03:36] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:42] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:43] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:46] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:06:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 18:07:17] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 18:10:08] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 18:11:32] Error text: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, mysqli given | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 20
+=================
+[2022-09-22 18:14:05] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 18:14:06] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 18:49:37] Error text: Call to undefined method app\models\Group::dbConnection() | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 13
+=================
+[2022-09-22 23:14:10] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:14:41] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:14:42] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:15:44] Error text: syntax error, unexpected token "}", expecting ";" | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-22 23:15:50] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:16:57] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:17:07] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:18:50] Error text: Missing connect to DB | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 16
+=================
+[2022-09-22 23:18:54] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:20:45] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:20:46] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:20:54] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:23:20] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:24:07] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:24:23] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:25:16] Error text: mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 15
+=================
+[2022-09-22 23:25:26] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:25:42] Error text: Attempt to read property "connect_error" on null | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 16
+=================
+[2022-09-22 23:25:53] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:29:14] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:29:15] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:42:00] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 14
+=================
+[2022-09-22 23:50:51] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 23:50:53] Error text: Object of class mysqli_result could not be converted to string | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 23:51:34] Error text: syntax error, unexpected token ";", expecting ")" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 13
+=================
+[2022-09-22 23:51:43] Error text: Undefined array key "gropes" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 23:53:12] Error text: Undefined array key "gropes" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-22 23:54:46] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-22 23:56:30] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-22 23:56:30] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-22 23:56:31] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-22 23:56:31] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-22 23:56:32] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-23 14:07:18] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-23 14:07:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 14:15:35] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:16:29] Error text: Undefined constant "app\models\re" | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 19
+=================
+[2022-09-23 14:17:03] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:17:26] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:18:02] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:14] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:15] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:17] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:17] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:18] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:18] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:18] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:19] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:24] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:27:54] Error text: Undefined array key "gropes" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:29:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:31:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:34:28] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:35:11] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:35:11] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:36:53] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:36:54] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:36:58] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:36:59] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:27] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:28] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:30] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:30] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:30] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:30] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:37:53] Error text: Cannot assign int to property wfm\Controller::$data of type array | File: D:\OpenServer\domains\test-task\vendor\wfm\Controller.php | Line: 34
+=================
+[2022-09-23 14:38:13] Error text: Cannot assign int to property wfm\Controller::$data of type array | File: D:\OpenServer\domains\test-task\vendor\wfm\Controller.php | Line: 34
+=================
+[2022-09-23 14:38:15] Error text: Cannot assign int to property wfm\Controller::$data of type array | File: D:\OpenServer\domains\test-task\vendor\wfm\Controller.php | Line: 34
+=================
+[2022-09-23 14:39:30] Error text: Cannot assign int to property wfm\Controller::$data of type array | File: D:\OpenServer\domains\test-task\vendor\wfm\Controller.php | Line: 34
+=================
+[2022-09-23 14:39:36] Error text: Cannot assign int to property wfm\Controller::$data of type array | File: D:\OpenServer\domains\test-task\vendor\wfm\Controller.php | Line: 34
+=================
+[2022-09-23 14:40:17] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:38] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:43] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:44] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:41:45] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:44:35] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:47:23] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:47:24] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:47:24] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:47:24] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:47:24] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:01] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:01] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:37] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:37] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:38] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:38] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:38] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:39] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:39] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:50:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 16
+=================
+[2022-09-23 14:51:01] Error text: Undefined variable $gropes | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:51:12] Error text: Undefined variable $gropes | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:52:37] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 14
+=================
+[2022-09-23 14:53:11] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 14
+=================
+[2022-09-23 14:53:12] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 14
+=================
+[2022-09-23 14:53:57] Error text: Undefined variable $gropes | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:54:09] Error text: Undefined variable $m | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:54:16] Error text: Undefined variable $m | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 14:54:53] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-23 15:00:07] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:00:07] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:00:40] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:36:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:40:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:41:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:41:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:43:03] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:43:12] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:43:22] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:43:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:45:18] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 45
+=================
+[2022-09-23 15:45:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:45:44] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 45
+=================
+[2022-09-23 15:45:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:46:43] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 44
+=================
+[2022-09-23 15:46:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:47:33] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 47
+=================
+[2022-09-23 15:47:33] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:49:01] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:49:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:49:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:51:12] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:52:14] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:53:23] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:38] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:39] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:47] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:47] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:53] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:54] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:54:57] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 15:59:28] Error text: mysqli_fetch_all(): Argument #1 ($result) must be of type mysqli_result, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 17
+=================
+[2022-09-23 16:02:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 17:18:19] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 45 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:18:36] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 45 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:19:25] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 45 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:20:20] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 45 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:23:59] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 30 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:32:18] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 30 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:33:29] Error text: preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 30 | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 67
+=================
+[2022-09-23 17:35:27] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:35:38] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:36:29] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:37:02] Error text: Unclosed '(' does not match ']' | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:37:10] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:37:23] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:37:28] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 17:38:38] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:38:51] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:39:40] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:40:35] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:40:35] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:40:36] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:40:36] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:40:36] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:41:16] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:41:31] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:41:31] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:54:58] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 17:55:30] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:55:35] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:57:02] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 17:57:10] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 18:57:57] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 18:58:41] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:03] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:05] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:05] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:06] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:07] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:11] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:20] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:35] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:00:51] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:00:54] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:01:21] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 1
+=================
+[2022-09-23 19:02:36] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 19:02:37] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 19:02:38] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 19:02:39] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 19:02:40] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 12
+=================
+[2022-09-23 19:02:57] Error text: Undefined constant "products" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 13
+=================
+[2022-09-23 19:06:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:09:15] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:10:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:10:36] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:10:48] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:13:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:13:50] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-23 19:14:40] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:15:05] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:15:15] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:16:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:16:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:16:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:17:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:17:36] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:17:36] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:17:40] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:18:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:18:05] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:19:31] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 19:19:47] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:30] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:31] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:31] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:33] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:45] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:45] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 19:20:47] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:42:58] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:43:15] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 23:43:25] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-23 23:43:44] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:45:04] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:45:05] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:45:24] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:50:16] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:50:45] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:51:48] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:52:19] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:52:19] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:53:01] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:53:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:54:43] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:55:44] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:56:13] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:56:14] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:56:14] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:56:43] Error text: Object of class app\controllers\ProductController could not be converted to string | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:56:45] Error text: Object of class app\controllers\ProductController could not be converted to string | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-23 23:56:52] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:57:33] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-23 23:58:41] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-23 23:59:40] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-23 23:59:41] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-23 23:59:41] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-23 23:59:52] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:01:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 50
+=================
+[2022-09-24 00:01:27] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 50
+=================
+[2022-09-24 00:01:27] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 50
+=================
+[2022-09-24 00:01:54] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:02:36] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:03:35] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:03:36] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:03:36] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:03:36] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:04:29] Error text: Call to undefined method app\controllers\ProductController::getView() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 52
+=================
+[2022-09-24 00:04:42] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:04:43] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:05:11] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:05:38] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 60
+=================
+[2022-09-24 00:05:40] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 60
+=================
+[2022-09-24 00:05:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 60
+=================
+[2022-09-24 00:05:55] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 60
+=================
+[2022-09-24 00:06:46] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:06:48] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:06:49] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:06:50] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:07:19] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:07:21] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:07:21] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:07:21] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:07:39] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:07:42] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:07:58] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:08:53] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:09:05] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:09:28] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:09:29] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:09:29] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:10:22] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:23] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:24] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:24] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:25] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:25] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:10:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:11:00] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-24 00:11:32] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 50
+=================
+[2022-09-24 00:13:19] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 00:14:48] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-24 00:16:42] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:17:25] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:17:25] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:17:26] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:17:27] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:19:53] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 00:22:09] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 61
+=================
+[2022-09-24 00:59:34] Error text: Call to undefined method app\controllers\ProductController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 49
+=================
+[2022-09-24 01:00:10] Error text: Call to undefined method app\models\Product::get_groups() | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 13
+=================
+[2022-09-24 01:01:18] Error text: Call to undefined method app\models\Product::get_groups() | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 13
+=================
+[2022-09-24 01:02:19] Error text: Call to undefined method app\models\Product::get_groups() | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 13
+=================
+[2022-09-24 01:02:22] Error text: Call to undefined method app\models\Product::get_groups() | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 13
+=================
+[2022-09-24 01:08:25] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 12
+=================
+[2022-09-24 01:08:30] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 12
+=================
+[2022-09-24 01:12:44] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 12
+=================
+[2022-09-24 02:55:36] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 02:56:54] Error text: Missing app\controllers\GroupController:showAlAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 02:57:04] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 18
+=================
+[2022-09-24 02:57:29] Error text: Missing app\controllers\GroupController:showAlAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 02:57:49] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 18
+=================
+[2022-09-24 03:00:08] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 11
+=================
+[2022-09-24 03:02:40] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 12
+=================
+[2022-09-24 03:03:35] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 23
+=================
+[2022-09-24 03:04:39] Error text: Call to undefined method app\models\Group::get_all() | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 29
+=================
+[2022-09-24 03:07:54] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 1
+=================
+[2022-09-24 03:08:33] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/showGroups.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 03:08:55] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/showGroups.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 03:12:29] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 19
+=================
+[2022-09-24 03:16:00] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 28
+=================
+[2022-09-24 03:16:00] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 28
+=================
+[2022-09-24 03:16:01] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 28
+=================
+[2022-09-24 03:16:52] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:16:53] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:16:53] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:16:53] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:47] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:49] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:17:53] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:18:04] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:18:09] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:18:42] Error text: Undefined variable $products | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 3
+=================
+[2022-09-24 03:19:38] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:19:43] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:19] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:20] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:21] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:21:48] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 21
+=================
+[2022-09-24 03:21:49] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 21
+=================
+[2022-09-24 03:21:49] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 21
+=================
+[2022-09-24 03:21:50] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 21
+=================
+[2022-09-24 03:22:07] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 14
+=================
+[2022-09-24 03:22:42] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:03] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:23] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:24] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:24] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:24] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:23:24] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:25:56] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 28
+=================
+[2022-09-24 03:28:22] Error text: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 28
+=================
+[2022-09-24 03:30:31] Error text: Trying to access array offset on value of type bool | File: D:\OpenServer\domains\test-task\vendor\wfm\dbConnect.php | Line: 3
+=================
+[2022-09-24 03:31:31] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:31:50] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:20] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:21] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:21] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:22] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:22] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:22] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:22] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:22] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:23] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:23] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:23] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:33:23] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 03:47:02] Error text: app\models\Product::get_products(): Return value must be of type array, mysqli_result returned | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 20
+=================
+[2022-09-24 04:08:16] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 2
+=================
+[2022-09-24 04:10:40] Error text: Unclosed '[' does not match ')' | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 35
+=================
+[2022-09-24 04:11:09] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 3
+=================
+[2022-09-24 04:11:25] Error text: compact(): Undefined variable $$groups | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 35
+=================
+[2022-09-24 04:11:29] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 3
+=================
+[2022-09-24 04:24:04] Error text: Undefined array key "Name" | File: D:\OpenServer\domains\test-task\vendor\wfm\Model.php | Line: 18
+=================
+[2022-09-24 04:40:06] Error text: Unclosed '(' on line 44 does not match '}' | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 45
+=================
+[2022-09-24 04:53:30] Error text: Undefined constant "k2" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 11
+=================
+[2022-09-24 04:58:54] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 13
+=================
+[2022-09-24 05:36:28] Error text: syntax error, unexpected token "}" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 17
+=================
+[2022-09-24 05:42:22] Error text: syntax error, unexpected token "}" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 17
+=================
+[2022-09-24 05:44:08] Error text: syntax error, unexpected token "}" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 17
+=================
+[2022-09-24 05:44:15] Error text: syntax error, unexpected token "}" | File: D:\OpenServer\domains\test-task\app\views\Group\index.php | Line: 17
+=================
+[2022-09-24 05:45:08] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 18
+=================
+[2022-09-24 05:45:17] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 18
+=================
+[2022-09-24 05:46:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 18
+=================
+[2022-09-24 05:47:16] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:31] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:32] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:32] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:32] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:32] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 19
+=================
+[2022-09-24 05:47:57] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 16
+=================
+[2022-09-24 05:50:58] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 18
+=================
+[2022-09-24 05:51:12] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 18
+=================
+[2022-09-24 05:55:16] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 18
+=================
+[2022-09-24 05:56:50] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 18
+=================
+[2022-09-24 05:56:53] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 18
+=================
+[2022-09-24 05:57:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 05:57:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 05:58:00] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:04:04] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 20
+=================
+[2022-09-24 06:04:16] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 20
+=================
+[2022-09-24 06:04:17] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 20
+=================
+[2022-09-24 06:04:24] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 20
+=================
+[2022-09-24 06:08:23] Error text: Undefined variable $product | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 20
+=================
+[2022-09-24 06:23:47] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:25:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:34:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:34:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:38:47] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:44:22] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:44:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:45:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 06:57:56] Error text: Undefined array key "price" | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 22
+=================
+[2022-09-24 06:58:32] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 08:28:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 08:28:50] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:28:59] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:29:31] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:29:41] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:30:09] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:30:41] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:31:15] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:31:54] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:32:01] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:32:04] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:32:05] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:33:45] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 22
+=================
+[2022-09-24 08:34:44] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:01] Error text: Undefined array key "controller" | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 77
+=================
+[2022-09-24 08:35:22] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:47] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:48] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:52] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:53] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:55] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:56] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:56] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:35:56] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 08:36:03] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 08:40:00] Error text: syntax error, unexpected token "<", expecting end of file | File: D:\OpenServer\domains\test-task\app\views\Group\add.php | Line: 3
+=================
+[2022-09-24 13:25:58] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\add.php | Line: 8
+=================
+[2022-09-24 13:26:49] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\add.php | Line: 8
+=================
+[2022-09-24 13:26:53] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\add.php | Line: 8
+=================
+[2022-09-24 13:27:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:27:17] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\add.php | Line: 8
+=================
+[2022-09-24 13:31:01] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:31:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:31:52] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:31:54] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:32:01] Error text: Missing app\controllers\GroupController:addformAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 13:34:38] Error text: Missing app\controllers\GroupController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-24 13:38:36] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:39:45] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:39:49] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:41:25] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:41:42] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:43:19] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 13:45:38] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:45:49] Error text: Undefined array key "firstname" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 46
+=================
+[2022-09-24 13:46:05] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:52:18] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:52:20] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:54:56] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:56:05] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:56:41] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:57:34] Error text: syntax error, unexpected token "}" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 51
+=================
+[2022-09-24 13:58:08] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 12
+=================
+[2022-09-24 13:59:03] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:59:30] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/ .php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:59:31] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/ .php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:59:31] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/ .php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-24 13:59:54] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 12
+=================
+[2022-09-24 13:59:54] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 12
+=================
+[2022-09-24 13:59:55] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Group\showGroups.php | Line: 12
+=================
+[2022-09-24 14:14:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:14:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:15:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:15:23] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:16:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:16:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:16:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:16:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:18:12] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:18:13] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:18:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:18:41] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:18:49] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:19:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:19:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:19:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:19:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-24 14:20:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 12:19:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 12:57:59] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 47
+=================
+[2022-09-25 12:58:24] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 48
+=================
+[2022-09-25 12:59:38] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 48
+=================
+[2022-09-25 13:01:58] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:02:46] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:02:47] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:02:54] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:02:55] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:06] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:20] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:21] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:21] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:30] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:30] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:30] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:03:43] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:03] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:04] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:04] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:04] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:04] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:04] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:05] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:05] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:05] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:05] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:10] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:23] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:04:26] Error text: Call to undefined function __() | File: D:\OpenServer\domains\test-task\app\views\Group\addform.php | Line: 7
+=================
+[2022-09-25 13:13:28] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 48
+=================
+[2022-09-25 13:13:32] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 48
+=================
+[2022-09-25 13:14:34] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 48
+=================
+[2022-09-25 13:39:19] Error text: Missing app\controllers\GroupController:addformAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-25 13:39:43] Error text: Missing app\controllers\GroupController:addformAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-25 13:39:54] Error text: Missing app\controllers\GroupController:addformAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-25 13:39:59] Error text: Missing app\controllers\GroupController:addformAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-25 13:40:05] Error text: View:D:\OpenServer\domains\test-task/app/views/Group/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-25 13:50:09] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 30
+=================
+[2022-09-25 13:50:52] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 32
+=================
+[2022-09-25 13:59:09] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 17
+=================
+[2022-09-25 13:59:39] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 17
+=================
+[2022-09-25 13:59:40] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 17
+=================
+[2022-09-25 13:59:44] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 17
+=================
+[2022-09-25 14:00:00] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:00:57] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:00:58] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:00:58] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:00:59] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:00:59] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:01:00] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:01:00] Error text: Cannot use object of type app\models\Group as array | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:08:18] Error text: Undefined variable $groupe_name | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 34
+=================
+[2022-09-25 14:08:48] Error text: Undefined variable $groupe_name | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 34
+=================
+[2022-09-25 14:17:43] Error text: Undefined property: app\models\Product::$add_to_viewed | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 15
+=================
+[2022-09-25 14:18:16] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 32
+=================
+[2022-09-25 14:18:46] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 15
+=================
+[2022-09-25 14:33:23] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:33:42] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 14:33:44] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 14:33:48] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 14:34:04] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:34:05] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:34:22] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 18
+=================
+[2022-09-25 14:34:46] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 14:38:45] Error text: Missing app\controllers\GroupController:showProductsAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-25 15:27:07] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 29
+=================
+[2022-09-25 15:27:46] Error text: Undefined array key 1 | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 30
+=================
+[2022-09-25 15:33:15] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 30
+=================
+[2022-09-25 15:34:48] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 38
+=================
+[2022-09-25 15:35:13] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 38
+=================
+[2022-09-25 15:36:37] Error text: Undefined array key 0 | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 38
+=================
+[2022-09-25 15:45:27] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 15:58:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:58:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:58:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:58:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:58:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:58:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 15:59:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:00:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:00:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:00:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:00:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:00:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:22] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:48] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:48] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:01:55] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:20] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:20] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:02:58] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:03:19] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:03:19] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:03:20] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:03:26] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:03:26] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:04:13] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:04:13] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:06] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:06] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:13] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:13] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:32] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:32] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:05:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:17] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:06:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:07:38] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:07:38] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:09:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:09:45] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:11:00] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:11:00] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:11:30] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:12:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:12:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:12:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:12:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:12:43] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:13:26] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:13:26] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:13:32] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:13:32] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:14:33] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:14:33] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:18] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:46] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:15:46] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:02] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:37] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:44] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:16:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:17:56] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:17:57] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:17:57] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:19:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:19:05] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:19:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:24:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:24:42] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 16:39:32] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:08:41] Error text: require_once(D:\OpenServer\domains\test-task/app/parts/Viewed.php): Failed to open stream: No such file or directory | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 14
+=================
+[2022-09-25 17:09:42] Error text: require_once(D:\OpenServer\domains\test-task/app/parts/Viewed): Failed to open stream: No such file or directory | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 14
+=================
+[2022-09-25 17:11:15] Error text: Undefined variable $product | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 39
+=================
+[2022-09-25 17:14:07] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:26:00] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:26:02] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:26:05] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:26:08] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:26:42] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:27:18] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:27:21] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 51
+=================
+[2022-09-25 17:27:29] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:27:30] Error text: Non-static method app\models\Product::add_to_viewed() cannot be called statically | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:27:41] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:27:43] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:27:44] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:27:55] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:27:57] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:28:52] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:29:09] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:29:15] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 53
+=================
+[2022-09-25 17:29:28] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 19
+=================
+[2022-09-25 17:31:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:31:29] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-25 17:32:45] Error text: Undefined array key "viewed" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 20
+=================
+[2022-09-26 03:25:31] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-26 05:46:06] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-26 05:46:51] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 05:47:27] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:48:10] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:48:11] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:48:13] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:00] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:22] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:26] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:26] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:27] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:27] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:27] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:49:27] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 47
+=================
+[2022-09-26 05:50:02] Error text: Call to undefined method app\controllers\FullController::getModel() | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 48
+=================
+[2022-09-26 05:51:56] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 05:52:25] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 05:53:02] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 18
+=================
+[2022-09-26 05:56:53] Error text: app\models\Full::get_products_with_groups(): Return value must be of type array, mysqli_result returned | File: D:\OpenServer\domains\test-task\app\models\Full.php | Line: 14
+=================
+[2022-09-26 05:58:14] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 05:59:17] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:01:39] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:00] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:03] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:04] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:04] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:04] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:04] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:04] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:21] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:38] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:02:55] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:04:27] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\parts\Viewed.php | Line: 20
+=================
+[2022-09-26 06:04:53] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:05:00] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 22
+=================
+[2022-09-26 06:05:02] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 22
+=================
+[2022-09-26 06:05:56] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 16
+=================
+[2022-09-26 06:06:55] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 11
+=================
+[2022-09-26 06:07:14] Error text: Undefined variable $groups | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 11
+=================
+[2022-09-26 06:07:26] Error text: Undefined array key "Id" | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 15
+=================
+[2022-09-26 06:14:08] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 10
+=================
+[2022-09-26 06:15:04] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Product\show.php | Line: 10
+=================
+[2022-09-26 06:30:52] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 49
+=================
+[2022-09-26 06:31:28] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\models\Group.php | Line: 50
+=================
+[2022-09-26 06:31:40] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:08] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:09] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:09] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:10] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:10] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:11] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:16] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:20] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:27] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:29] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:29] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:29] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:29] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:30] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:32:47] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:23] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:23] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:24] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:24] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:28] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 20
+=================
+[2022-09-26 06:33:55] Error text: Array to string conversion | File: D:\OpenServer\domains\test-task\app\views\Full\show.php | Line: 18
+=================
+[2022-09-26 06:47:05] Error text: Missing app\controllers\ProductController:addAction | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 53
+=================
+[2022-09-26 06:47:37] Error text: View:D:\OpenServer\domains\test-task/app/views/Product/add.php not found | File: D:\OpenServer\domains\test-task\vendor\wfm\View.php | Line: 32
+=================
+[2022-09-26 07:08:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:08:54] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:09:08] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:33] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:34] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:34] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:21:36] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:04] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:06] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:23] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:22:33] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:50:34] Error text: Undefined array key "product_category" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 50
+=================
+[2022-09-26 07:51:24] Error text: Undefined array key "product_category" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 50
+=================
+[2022-09-26 07:51:27] Error text: Undefined array key "product_category" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 50
+=================
+[2022-09-26 07:53:24] Error text: Undefined array key "product_group" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 50
+=================
+[2022-09-26 07:53:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:55:24] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:55:31] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:55:35] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:56:52] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:56:53] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:56:55] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:57:08] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:57:08] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:57:08] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:57:11] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:59:40] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 07:59:57] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 08:00:10] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 08:00:21] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 59
+=================
+[2022-09-26 08:05:28] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-26 09:32:27] Error text: Missing page | File: D:\OpenServer\domains\test-task\vendor\wfm\Router.php | Line: 58
+=================
+[2022-09-26 09:48:45] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:50:41] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 8
+=================
+[2022-09-26 09:51:26] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 8
+=================
+[2022-09-26 09:51:28] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 8
+=================
+[2022-09-26 09:51:30] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 8
+=================
+[2022-09-26 09:51:43] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 7
+=================
+[2022-09-26 09:51:45] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 7
+=================
+[2022-09-26 09:51:54] Error text: Undefined array key "id" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 8
+=================
+[2022-09-26 09:52:06] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:53:57] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:54:21] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:55:29] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:55:31] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 09:55:53] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 10:02:07] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 10:04:05] Error text: Undefined variable $_SESSION | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 62
+=================
+[2022-09-26 10:07:35] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:08:06] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:08:07] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:08:09] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:17:28] Error text: Unclosed '{' on line 7 | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 27
+=================
+[2022-09-26 10:17:49] Error text: Undefined array key "group_name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:17:54] Error text: Undefined array key "group_name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:17:56] Error text: Undefined array key "group_name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:18:00] Error text: Undefined array key "group_name" | File: D:\OpenServer\domains\test-task\app\views\Group\update.php | Line: 14
+=================
+[2022-09-26 10:19:32] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 25
+=================
+[2022-09-26 10:19:40] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 25
+=================
+[2022-09-26 10:21:27] Error text: Undefined array key "name" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 25
+=================
+[2022-09-26 10:23:58] Error text: Undefined array key "product_price" | File: D:\OpenServer\domains\test-task\app\views\Group\showProducts.php | Line: 25
+=================
+[2022-09-26 10:39:55] Error text: Undefined array key "product_group" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 62
+=================
+[2022-09-26 10:40:04] Error text: Undefined array key "product_group" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 62
+=================
+[2022-09-26 10:40:29] Error text: Undefined array key "product_group" | File: D:\OpenServer\domains\test-task\app\controllers\ProductController.php | Line: 62
+=================
+[2022-09-26 10:42:39] Error text: Too few arguments to function app\models\Product::update_product(), 0 passed in D:\OpenServer\domains\test-task\app\controllers\ProductController.php on line 66 and exactly 4 expected | File: D:\OpenServer\domains\test-task\app\models\Product.php | Line: 84
+=================
+[2022-09-26 10:45:38] Error text: Undefined array key "group_id" | File: D:\OpenServer\domains\test-task\app\controllers\GroupController.php | Line: 61
+=================
+[2022-09-26 11:06:05] Error text: Undefined variable $_ | File: D:\OpenServer\domains\test-task\app\views\Product\update.php | Line: 22
+=================
+[2022-09-26 11:06:20] Error text: Undefined variable $_ | File: D:\OpenServer\domains\test-task\app\views\Product\update.php | Line: 22
+=================
